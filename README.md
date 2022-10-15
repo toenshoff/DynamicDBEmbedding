@@ -17,3 +17,10 @@ bash run_forward_experiments.sh
 bash run_n2v_experiments.sh
 ```
 
+
+#### Extended Results
+We provide extended results on the static database setting in the following file:
+```
+Results/Extended_Static_Results.pdf
+```
+The curces plot the classification results on the static database emeddings as the train/test ratio is shifted.
